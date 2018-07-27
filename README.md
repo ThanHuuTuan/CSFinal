@@ -5,6 +5,9 @@ MacNet is a piece of software that allows you to remotely control someone else's
 
 ![App Logo](https://i.imgur.com/8G4LV6b.png)
 
+
+# Example Interface
+
 ![Interface](https://i.imgur.com/gdzOh6e.png)
 
 
