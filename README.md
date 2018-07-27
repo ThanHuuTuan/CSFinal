@@ -8,8 +8,6 @@ MacNet is a piece of software that allows you to remotely control someone else's
 
 # Core Features
 
-![Interface](https://i.imgur.com/gdzOh6e.png)
-
 - The dark screen at the top of the page allows you to tap any location and control the position of the mouse on the victim's computer 
 - The OpenURL form allows you to open any URL on the victim's default browser 
 - The create Alert form allows you to send an alert to the victim's computer (it will display from "Finder") 
@@ -19,5 +17,6 @@ MacNet is a piece of software that allows you to remotely control someone else's
 - The "Sleep" button forces the victim's computer to sleep
 
 
+![Interface](https://i.imgur.com/gdzOh6e.png)
 
 
