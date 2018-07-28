@@ -1,4 +1,4 @@
-NYU Computer Information Systems: Cyber Defense >> Final Project
+Final Project For NYU's Computer Information Systems: Cyber Defense course.
 
 # MacNet Control Panel 
 
