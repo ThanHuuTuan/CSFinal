@@ -17,6 +17,7 @@ MacNet is a piece of software that allows you to remotely control someone else's
 - The "Sleep" button forces the victim's computer to sleep
 
 
-![Interface](https://i.imgur.com/gdzOh6e.png)
+![Interface](https://i.imgur.com/fe7dKZw.png)
+
 
 
